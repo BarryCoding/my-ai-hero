@@ -1,0 +1,22 @@
+{
+  "name": "my-ai-hero",
+  "version": "1.0.0",
+  "description": "learning ai",
+  "type": "module",
+  "scripts": {
+    "learn": "tsx scripts/start-learning.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.4.1",
+  "dependencies": {
+    "@ai-sdk/anthropic": "^1.1.9",
+    "ai": "^4.1.45"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "commander": "^13.1.0",
+    "tsx": "^4.19.3"
+  }
+}
