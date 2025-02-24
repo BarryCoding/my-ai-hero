@@ -28,4 +28,5 @@ pnpm add -D @types/node commander tsx
 | 05  | messages         | `pnpm run learn vercel-ai-sdk 05` |
 | 06  | self host model  | `pnpm run learn vercel-ai-sdk 06` |
 | 07  | generate object  | `pnpm run learn vercel-ai-sdk 07` |
+| 08  | stream object    | `pnpm run learn vercel-ai-sdk 08` |
 

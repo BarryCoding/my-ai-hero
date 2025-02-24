@@ -9,3 +9,4 @@
 5. [messages prompts](https://sdk.vercel.ai/docs/foundations/prompts#message-prompts)
 6. [self-hosted models](https://sdk.vercel.ai/providers/openai-compatible-providers/lmstudio) setup by [LM Studio](https://lmstudio.ai/)
 7. [generate object](https://sdk.vercel.ai/docs/ai-sdk-core/generating-structured-data#generate-object)
+8. [stream object](https://sdk.vercel.ai/docs/ai-sdk-core/generating-structured-data#stream-object)
