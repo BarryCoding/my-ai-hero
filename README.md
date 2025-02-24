@@ -3,7 +3,7 @@
 ```bash
 pnpm init
 # deps
-pnpm add ai @ai-sdk/anthropic @ai-sdk/openai @ai-sdk/openai-compatible hono @hono/node-server
+pnpm add ai @ai-sdk/anthropic @ai-sdk/openai @ai-sdk/openai-compatible hono @hono/node-server zod
 # dev deps
 pnpm add -D @types/node commander tsx
 ```
@@ -27,4 +27,5 @@ pnpm add -D @types/node commander tsx
 | 04  | providers models | `pnpm run learn vercel-ai-sdk 04` |
 | 05  | messages         | `pnpm run learn vercel-ai-sdk 05` |
 | 06  | self host model  | `pnpm run learn vercel-ai-sdk 06` |
+| 07  | generate object  | `pnpm run learn vercel-ai-sdk 07` |
 
