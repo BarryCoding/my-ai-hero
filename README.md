@@ -3,7 +3,7 @@
 ```bash
 pnpm init
 # deps
-pnpm add ai @ai-sdk/anthropic @ai-sdk/openai
+pnpm add ai @ai-sdk/anthropic @ai-sdk/openai hono @hono/node-server
 # dev deps
 pnpm add -D @types/node commander tsx
 ```
@@ -25,4 +25,5 @@ pnpm add -D @types/node commander tsx
 | 02  | stream text      | `pnpm run learn vercel-ai-sdk 02` |
 | 03  | system prompt    | `pnpm run learn vercel-ai-sdk 03` |
 | 04  | providers models | `pnpm run learn vercel-ai-sdk 04` |
+| 05  | messages         | `pnpm run learn vercel-ai-sdk 05` |
 
