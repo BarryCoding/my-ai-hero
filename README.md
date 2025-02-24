@@ -22,4 +22,5 @@ pnpm add -D @types/node commander tsx
 | --- | ------------- | --------------------------------- |
 | 01  | generate text | `pnpm run learn vercel-ai-sdk 01` |
 | 02  | stream text   | `pnpm run learn vercel-ai-sdk 02` |
+| 03  | system prompt | `pnpm run learn vercel-ai-sdk 03` |
 
