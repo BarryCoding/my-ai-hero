@@ -14,6 +14,9 @@ importers:
       '@ai-sdk/openai':
         specifier: ^1.1.13
         version: 1.1.13(zod@3.24.2)
+      '@ai-sdk/openai-compatible':
+        specifier: ^0.1.11
+        version: 0.1.11(zod@3.24.2)
       '@hono/node-server':
         specifier: ^1.13.8
         version: 1.13.8(hono@4.7.2)
@@ -38,6 +41,12 @@ packages:
 
   '@ai-sdk/anthropic@1.1.9':
     resolution: {integrity: sha512-oPZ0r1XyXHWYwOSFnUTRdPMjX3SOfmZjgb1YaRYQk5Zhrcm8DcmZLkdXBkIXbfMeeOnT+bidqGbQSejXEzk/FQ==}
+    engines: {node: '>=18'}
+    peerDependencies:
+      zod: ^3.0.0
+
+  '@ai-sdk/openai-compatible@0.1.11':
+    resolution: {integrity: sha512-r9kIDPdKCM1tbZEEKUauGzXp+w1ADrFPPfSxVeVr7of4QIvKzXqLaH/jR/HtdZ1JR5i9uywHijOAZtw7ZcDvQQ==}
     engines: {node: '>=18'}
     peerDependencies:
       zod: ^3.0.0
@@ -352,6 +361,12 @@ packages:
 snapshots:
 
   '@ai-sdk/anthropic@1.1.9(zod@3.24.2)':
+    dependencies:
+      '@ai-sdk/provider': 1.0.8
+      '@ai-sdk/provider-utils': 2.1.9(zod@3.24.2)
+      zod: 3.24.2
+
+  '@ai-sdk/openai-compatible@0.1.11(zod@3.24.2)':
     dependencies:
       '@ai-sdk/provider': 1.0.8
       '@ai-sdk/provider-utils': 2.1.9(zod@3.24.2)
