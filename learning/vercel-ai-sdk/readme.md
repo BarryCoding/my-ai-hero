@@ -16,3 +16,4 @@
 12. [output file](https://sdk.vercel.ai/docs/reference/ai-sdk-core/generate-object#messages.core-user-message.content.file-part)
 13. [embeddings](https://sdk.vercel.ai/docs/ai-sdk-core/embeddings)
 14. [tool calling](https://sdk.vercel.ai/docs/ai-sdk-core/tools-and-tool-calling)
+15. [tool calling with maxSteps](https://sdk.vercel.ai/docs/ai-sdk-core/tools-and-tool-calling#multi-step-calls-using-maxsteps)

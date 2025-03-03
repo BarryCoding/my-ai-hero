@@ -35,4 +35,5 @@ pnpm add -D @types/node commander tsx
 | 12  | output by FilePart | `pnpm run learn vercel-ai-sdk 12` |
 | 13  | embeddings         | `pnpm run learn vercel-ai-sdk 13` |
 | 14  | tool calling       | `pnpm run learn vercel-ai-sdk 14` |
+| 15  | tool with maxSteps | `pnpm run learn vercel-ai-sdk 14` |
 
