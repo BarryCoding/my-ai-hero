@@ -15,3 +15,4 @@
 11. [image part](https://sdk.vercel.ai/docs/reference/ai-sdk-core/core-message#imagepart)
 12. [output file](https://sdk.vercel.ai/docs/reference/ai-sdk-core/generate-object#messages.core-user-message.content.file-part)
 13. [embeddings](https://sdk.vercel.ai/docs/ai-sdk-core/embeddings)
+14. [tool calling](https://sdk.vercel.ai/docs/ai-sdk-core/tools-and-tool-calling)
