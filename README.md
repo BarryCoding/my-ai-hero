@@ -33,4 +33,5 @@ pnpm add -D @types/node commander tsx
 | 10  | output array       | `pnpm run learn vercel-ai-sdk 10` |
 | 10  | image alt text     | `pnpm run learn vercel-ai-sdk 11` |
 | 10  | output by FilePart | `pnpm run learn vercel-ai-sdk 12` |
+| 10  | embeddings         | `pnpm run learn vercel-ai-sdk 13` |
 
