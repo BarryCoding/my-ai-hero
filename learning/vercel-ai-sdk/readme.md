@@ -12,3 +12,4 @@
 8. [stream object](https://sdk.vercel.ai/docs/ai-sdk-core/generating-structured-data#stream-object)
 9. [output enum strategy](https://sdk.vercel.ai/docs/ai-sdk-core/generating-structured-data#enum)
 10. [output array strategy](https://sdk.vercel.ai/docs/ai-sdk-core/generating-structured-data#array)
+11. [image part](https://sdk.vercel.ai/docs/reference/ai-sdk-core/core-message#imagepart)

@@ -31,4 +31,5 @@ pnpm add -D @types/node commander tsx
 | 08  | stream object    | `pnpm run learn vercel-ai-sdk 08` |
 | 09  | output enum      | `pnpm run learn vercel-ai-sdk 09` |
 | 10  | output array     | `pnpm run learn vercel-ai-sdk 10` |
+| 10  | image alt text   | `pnpm run learn vercel-ai-sdk 11` |
 
